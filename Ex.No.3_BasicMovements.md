@@ -60,7 +60,4 @@ public class FirstScript : MonoBehaviour
 Thus the basic movement is learned through scripting.
 
 
-### Result:
-Thus the basic movement is learned through scripting
-
 
