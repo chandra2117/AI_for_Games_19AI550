@@ -1,6 +1,6 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek and Flee behavior in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 10/05/2026                                                                           
+### REGISTER NUMBER : 212223240019
 ### AIM: 
 To write a program to simulate the process of seek and Flee behavior in Unity without NavigationMeshAgent. 
 ### Algorithm:
@@ -50,7 +50,9 @@ public class seekScript : MonoBehaviour
         // Move the object towards the target
         transform.position += direction * speed * Time.deltaTime;
     }
-}
+}<img width="1337" height="688" alt="560378408-66b94d68-7175-4b4e-9c6f-292cf9bfb206" src="https://github.com/user-attachments/assets/944941b8-6bc6-4ea9-9c75-9ab2795d54e8" />
+<img width="1337" height="688" alt="560378408-66b94d68-7175-4b4e-9c6f-292cf9bfb206" src="https://github.com/user-attachments/assets/8ed3048c-16d8-4cfb-bb54-85fb8d3a8f18" />
+
 ```
 ```
 using System.Collections;
@@ -82,13 +84,9 @@ public class fleeScript : MonoBehaviour
 ```
 ### Output:
 
-
-
-
-
-
-
-
+<img width="1337" height="688" alt="560378408-66b94d68-7175-4b4e-9c6f-292cf9bfb206" src="https://github.com/user-attachments/assets/8e2b5600-6cb3-498f-a31d-08e77b18cf40" />
+<img width="1327" height="670" alt="560378304-7a4eefe3-0ffb-46c2-813c-8e229ba1023c" src="https://github.com/user-attachments/assets/434026e6-0cfa-4bc5-acc3-9d4e96472562" />
+<img width="1324" height="696" alt="560378037-72fb5729-f3bb-4d29-93a9-50bc9545f8a6" src="https://github.com/user-attachments/assets/d86e6f95-3e90-4706-b7f1-bc6a2d2f1b38" />
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
