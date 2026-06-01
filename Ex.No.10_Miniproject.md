@@ -82,5 +82,6 @@ public class ScoreManager : MonoBehaviour
 <br>
 <img width="1920" height="1020" alt="Screenshot 2026-06-01 085052" src="https://github.com/user-attachments/assets/4b9bbcc1-9785-4f01-99e8-7a3051a024ec" />
 <br><br>
+
 ### Result:
 Thus, the Coin Collection Game was successfully developed and executed using Unity.
